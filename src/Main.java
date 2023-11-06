@@ -7,6 +7,9 @@ public class Main {
         System.out.println("Lentejas pa comer");
         System.out.println("Y lasaña");
         System.out.println("y tu a mi");
+        System.out.println("Ikerro");
+        System.out.println("Espera que bebo agua");
+        System.out.println("Se me ca el moco");
 
     }
 }
