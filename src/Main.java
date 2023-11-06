@@ -5,6 +5,8 @@ public class Main {
         System.out.println("Decepcionante");
         System.out.println(":(");
         System.out.println("Lentejas pa comer");
+        System.out.println("Y lasaña");
+        System.out.println("y tu a mi");
 
     }
 }
